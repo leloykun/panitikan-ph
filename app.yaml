@@ -11,6 +11,10 @@ handlers:
   static_files: www/kapwa.html
   upload: www/kapwa.html
 
+- url: /salazar
+  static_files: www/salazar_poem.html
+  upload: www/salazar_poem.html
+
 - url: /(.*)
   static_files: www/\1
   upload: www/(.*)
