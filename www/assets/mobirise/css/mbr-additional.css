@@ -93,6 +93,9 @@ body {
   text-align: left;
   padding-top: 1rem;
 }
+.text-block-end {
+  padding-bottom:9rem;
+}
 .text-block-tula {
   font-family: 'Rubik', sans-serif;
   line-height:1.6;
